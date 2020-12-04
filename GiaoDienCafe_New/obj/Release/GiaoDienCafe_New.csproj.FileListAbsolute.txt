@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.FormDangNhap.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.FormGiaodien.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.FormPaint.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.FormTaiKhoan.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.UserAccount.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.UserBanhang1.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.UserDouong.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.UserGioiThieu.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.UserHoadon.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Release\GiaoDienCafe_New.csproj.CoreCompileInputs.cache

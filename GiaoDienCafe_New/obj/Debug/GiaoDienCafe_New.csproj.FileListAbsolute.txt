@@ -1,0 +1,65 @@
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.exe.config
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.exe
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.pdb
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\bin\Debug\Guna.UI.dll
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csprojAssemblyReference.cache
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormGiaodien.resources
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.Properties.Resources.resources
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.GenerateResource.cache
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.CoreCompileInputs.cache
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.CopyComplete
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.exe
+C:\Users\CONG DUY\source\repos\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.pdb
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.exe.config
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.exe
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.pdb
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csprojAssemblyReference.cache
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormDangNhap.resources
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormGiaodien.resources
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.Properties.Resources.resources
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.GenerateResource.cache
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.CoreCompileInputs.cache
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.CopyComplete
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.exe
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.pdb
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\bin\Debug\Guna.UI2.dll
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormPaint.resources
+C:\Users\CONG DUY\Desktop\GiaoDienCafe_New\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormTaiKhoan.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.exe.config
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.exe
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.pdb
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormDangNhap.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormGiaodien.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormPaint.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormTaiKhoan.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.exe
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.pdb
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserBanhang1.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserHoadon.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserDouong.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserAccount.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserGioiThieu.resources
+C:\Users\ASUS\Desktop\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csprojAssemblyReference.cache
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.exe.config
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.exe
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\bin\Debug\GiaoDienCafe_New.pdb
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csprojAssemblyReference.cache
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormDangNhap.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormGiaodien.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormPaint.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.FormTaiKhoan.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.Properties.Resources.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserAccount.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserBanhang1.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserDouong.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserGioiThieu.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.UserHoadon.resources
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.csproj.CopyComplete
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.exe
+C:\Users\User\Downloads\ThucTapChuy-nMon_LeCongDuy-HuynhCongDuy-master\GiaoDienCafe_New\obj\Debug\GiaoDienCafe_New.pdb
